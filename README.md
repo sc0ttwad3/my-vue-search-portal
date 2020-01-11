@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my-vue-search-portal 👋</h1>
+<h1 align="center">my-vue-search-portal 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.2.1-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/sc0ttwad3/my-vue-search-portal#readme" target="_blank">
@@ -26,8 +26,8 @@ npm install
 
 👤 **Scott Wade <sc0ttwad3@gmail.com> (http://sc0ttwad3.com)**
 
-* Website: sc0ttwad3.com
-* Github: [@sc0ttwad3](https://github.com/sc0ttwad3)
+- Website: sc0ttwad3.com
+- Github: [@sc0ttwad3](https://github.com/sc0ttwad3)
 
 ## 🤝 Contributing
 
@@ -42,5 +42,6 @@ Give a ⭐️ if this project helped you!
 Copyright © 2020 [Scott Wade <sc0ttwad3@gmail.com> (http://sc0ttwad3.com)](https://github.com/sc0ttwad3).<br />
 This project is [MIT](https://github.com/sc0ttwad3/my-vue-search-portal/blob/master/LICENSE) licensed.
 
-***
+---
+
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
