@@ -40,5 +40,22 @@
     "sass-loader": "^8.0.0",
     "vue-cli-plugin-bootstrap-vue": "^0.5.0",
     "vue-template-compiler": "^2.6.10"
-  }
+  },
+  "main": "src/main.js",
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sc0ttwad3/my-vue-search-portal.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Scott Wade <sc0ttwad3@gmail.com> (http://sc0ttwad3.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sc0ttwad3/my-vue-search-portal/issues"
+  },
+  "homepage": "https://github.com/sc0ttwad3/my-vue-search-portal#readme"
 }
