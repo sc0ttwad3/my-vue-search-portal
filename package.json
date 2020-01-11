@@ -1,7 +1,7 @@
 {
   "name": "my-vue-search-portal",
-  "description": "Vue-based front-end web application to search elasticsearch indexes",
-  "version": "0.2.1",
+  "description": "Vue-based front-end web application to search elasticsearch backed fastify server",
+  "version": "0.2.2",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
