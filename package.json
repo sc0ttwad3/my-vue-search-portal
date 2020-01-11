@@ -1,6 +1,7 @@
 {
   "name": "my-vue-search-portal",
-  "version": "0.1.0",
+  "description": "Vue-based front-end web application to search elasticsearch indexes",
+  "version": "0.2.1",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
